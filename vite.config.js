@@ -4,7 +4,10 @@ import { nitro } from "nitro/vite";
 import { solidStart } from "@solidjs/start/config";
 
 export default defineConfig({
-  server:{ allowedHosts: true },
+  server:{ allowedHosts: [
+    "sought-flying-treefrog.ngrok-free.app",
+    "merrcraft.com"
+  ] },
   plugins: [solidStart(),
     nitro()
   ]

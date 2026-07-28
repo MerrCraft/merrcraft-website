@@ -9,7 +9,7 @@ export default function App() {
     <Router
       root={props => (
         <MetaProvider>
-          <Title>SolidStart - Basic</Title>
+          <Title>MerrCraft's Meowing Cats</Title>
           <nav>
             <a href="/">Home</a>
             <a href="/about">About</a>
