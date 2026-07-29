@@ -1,5 +1,6 @@
 body {
   font-family: Gordita, Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin:0;
 }
 
 a {
@@ -12,6 +13,29 @@ main {
   align-items: center;
 }
 
+.title {
+  text-decoration: bold;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline;
+  line-break: auto;
+}
+
+nav, nav a {
+  text-align: center;
+  font-size: 30px;
+  text-decoration:none;
+  color:black;
+}
+nav {
+  background-color: rgba(146, 170, 255, 0.75);
+  background: linear-gradient(180deg, rgba(146, 170, 255, 0.75) 0%, rgba(144, 178, 255, 0.68) 7.6%, rgba(142, 186, 255, 0.6) 15.21%, rgba(140, 193, 255, 0.53) 22.81%, rgba(137, 201, 255, 0.45) 30.42%, rgba(134, 209, 255, 0.38) 38.02%, rgba(130, 216, 255, 0.3) 45.63%, rgba(126, 224, 255, 0.23) 53.23%, rgba(122, 231, 255, 0.15) 60.84%, rgba(117, 239, 255, 0.07) 68.44%, rgba(111, 246, 255, 0) 76.05%);
+}
+
+nav a {
+  margin-top: 5px;
+}
 h1 {
   color: #ffaa00;
   font-size: 4rem;
