@@ -12,6 +12,7 @@ export default function Home() {
       <section>
         <p class="title">Guestbook</p>
         <iframe src="https://merrcraft.atabook.org/" width="100%" height="400px" style="border:0;"></iframe>
+        <p>yo guys. PLEAAE STOP WITH CHEEZEMAN, YOUR DRIVING ME INSANE (im kidding. keep doing it. keep it a tradition)</p>
       </section>
         
 
