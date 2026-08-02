@@ -42,7 +42,7 @@ export default function Home() {
       <section>
         warming my heart {"<3"}<br/>
         you can click on it and it brings you to a new site like this one!
-        <ws-widget type="navlinkads" iid="738" embed="iframe" width="100%" height="100%"></ws-widget>
+        <iframe width="180" height="180" style="border:none" src="https://nvlk.dimden.dev/" name="neolink"></iframe>
       </section>
       </div>
     </main>
