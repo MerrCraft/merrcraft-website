@@ -76,6 +76,8 @@ p {
 }
 
 section {
+  background: #ffa257;
+  background: linear-gradient(180deg, rgba(255, 162, 87, 1) 0%, rgba(237, 221, 83, 1) 100%);
   width:28%;
   padding:1rem;
   background-color: #ffaa00;

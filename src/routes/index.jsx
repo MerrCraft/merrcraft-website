@@ -1,3 +1,5 @@
+import myCat from "../assets/MyCat.png";
+
 export default function Home() {
   return (
     <main>
@@ -11,6 +13,7 @@ export default function Home() {
         Hewwo! I'm MerrCraft, A person intrested in programming and touching grass.<br/>
         As you can tell, I really love cats.<br/>
         if you want more info, go to <a href="/about">about.</a>
+        <p><img src={myCat} width="100px"></img>meow</p>
       </section>
 
       <section>
@@ -33,7 +36,13 @@ export default function Home() {
       </section>
 
       <section>
-        I like this page <ws-widget type="like" iid="661"></ws-widget>
+        I like this page <br/>
+        <ws-widget type="like" iid="661"></ws-widget><ws-widget type="rating" iid="741"></ws-widget>
+      </section>
+      <section>
+        warming my heart {"<3"}<br/>
+        you can click on it and it brings you to a new site like this one!
+        <ws-widget type="navlinkads" iid="738" embed="iframe" width="100%" height="100%"></ws-widget>
       </section>
       </div>
     </main>
