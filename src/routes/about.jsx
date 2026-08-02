@@ -11,6 +11,10 @@ export default function About() {
           Idk what to put here bro<br/>
           ig jst wait.
         </section>
+        <section>
+          This site is open source :D<br/>
+          you can see the code on forgejo instance <a href="https://code.merrcraft.com/">here</a>
+        </section>
       </div>
     </main>
   );
