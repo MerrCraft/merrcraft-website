@@ -10,6 +10,7 @@ export default function App() {
     <Router
       root={props => (
         <MetaProvider>
+        <script src="https://keepandroidopen.org/banner.js"></script>
           <Title>MerrCraft's Meowing Cats</Title>
           <nav>
             <a href="/">Home</a>
