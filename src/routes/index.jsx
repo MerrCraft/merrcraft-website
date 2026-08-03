@@ -40,8 +40,8 @@ export default function Home() {
         <ws-widget type="like" iid="661"></ws-widget><ws-widget type="rating" iid="741"></ws-widget>
       </section>
       <section>
-        warming my heart {"<3"}<br/>
-        you can click on it and it brings you to a new site like this one!
+        <p>warming my heart {"<3"}<br/></p>
+        <p>you can click on it and it brings you to a new site like this one!</p>
         <iframe width="180" height="180" style="border:none" src="https://nvlk.dimden.dev/" name="neolink"></iframe>
       </section>
       </div>
