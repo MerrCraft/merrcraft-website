@@ -26,7 +26,7 @@ Node Version =<24
 Idk why you would want to fork this repo but its here anyways :3
 
 # MerrCraft's mreoww
-## About
+## mreowww
 mreow purr solidjs
 
 mreoowww meow~ meow meeeeeeow
@@ -41,10 +41,10 @@ meow purrrrrr moew MEOWWWW mEOW meow.
 CATS
 MEOW
 
-## Installation
-### Dependencies
+## MREOWWWW
+### Meooooowwwwwww
 Node meowww =<24
-### Steps
+### meowiee
 1. meoww `npm install` meoww mreow
 2. Meowwwe mreeeeeooow meowww
  - meoww `npm run build` 
