@@ -44,6 +44,10 @@ export default function Home() {
         <p>you can click on it and it brings you to a new site like this one!</p>
         <iframe width="180" height="180" style="border:none" src="https://nvlk.dimden.dev/" name="neolink"></iframe>
       </section>
+      <section>
+        <p class="title">What i'm listing to</p>
+        <ws-widget type="lastfm" iid="2337"></ws-widget>
+      </section>
       </div>
     </main>
   );
